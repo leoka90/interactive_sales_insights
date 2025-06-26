@@ -9,7 +9,7 @@
 - `sales_data_sample.csv` – Sales dataset from Kaggle
 - `ppt summary` – PowerPoint presentation summarizing the project
 - `dashboard.twbx` – Tableau packaged workbook
-- `dashboard.pdf` – Folder containing dashboard images 
+- `screenshot.pdf` – Folder containing dashboard images 
 
 ---
 
