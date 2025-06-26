@@ -33,12 +33,6 @@ To design an interactive Tableau dashboard to visualize key business metrics, tr
   - Sales by Country (Map)
   - Top 10 Customers
 
-- **Interactive Filters**:
-  - Year
-  - ProductLine
-  - Country
-  - DealSize
-
 ---
 
 ## 📈 Insights
