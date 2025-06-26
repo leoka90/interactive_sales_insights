@@ -7,7 +7,7 @@
 ## 📁 Files Included
 
 - `sales_data_sample.csv` – Sales dataset from Kaggle
-- `ppt summary` – PowerPoint presentation summarizing the project
+- `ppt summary.pptx` – PowerPoint presentation summarizing the project
 - `dashboard.twbx` – Tableau packaged workbook
 - `screenshot.pdf` – Folder containing dashboard images 
 
